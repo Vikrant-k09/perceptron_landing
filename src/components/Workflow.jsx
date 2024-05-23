@@ -11,6 +11,7 @@ const Workflow = () => {
           coding workflow.
         </span>
       </h2>
+      <br/>
       <div className="flex flex-wrap justify-center">
         <div className="p-2 w-full lg:w-1/2">
           <img src={codeImg} alt="Coding" />
